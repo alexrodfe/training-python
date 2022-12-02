@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "training-python-alexrodfe"
-version = "0.0.1"
+name = "training_python_alexrodfe"
+version = "0.0.3"
 authors = [
   { name="Alex Rodriguez", email="alexrodfe@gmail.com" },
 ]
